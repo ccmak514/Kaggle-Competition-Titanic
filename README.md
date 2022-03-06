@@ -1,1 +1,1 @@
-# Titanic - Machine Learning from Disaster (Kaggle Project).ipynb
+## Titanic - Machine Learning from Disaster (Kaggle Project)
