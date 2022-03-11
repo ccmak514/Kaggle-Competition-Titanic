@@ -1,6 +1,6 @@
 ## Titanic - Machine Learning from Disaster (Kaggle Project)
 This is a Kaggle project: Titanic - Machine Learning from Disaster <br>
-In this project, I achieved score: 0.79186/1 (0.79%) <br>
+In this project, I achieved score: 0.79186/1 (79%) <br>
 <img width="967" alt="Score" src="https://user-images.githubusercontent.com/101066418/156941931-dc8931ae-2cb1-4ec1-9c37-9ae7aeb1a475.png"> <br>
 The score is the percentage of passengers that are correctly predict. This is known as accuracy.<br>
 Here is the outline of my notebook:
